@@ -12,6 +12,7 @@
         "semi": false,
         "endOfLine": "auto"
       }
-    ]
+    ],
+    "no-unused-vars": "off"
   }
 }
